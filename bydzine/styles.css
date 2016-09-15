@@ -1,0 +1,35 @@
+body{
+    background-color: cbf4ec;
+    text-align: left;
+
+}
+h1{
+    font-family: san serif,earial;
+    font-style: bold
+    text-align: center;
+    color: 05214e;
+}
+
+h2{
+    font-family: san serif, arial;
+    font-style: bold;
+    text-align: center;
+    color: 05214;
+}
+h3{
+    font-family: san serif, arial;
+    font-style: bold;
+    text-align: left;
+    color: 05214e;
+
+p{
+    text-align:left;
+    font-family: san serif, arial ;
+    margin-bottom: 50px;
+    margin-right: 150px;
+    margin-left: 150px;
+}
+.footer{
+    font-style: oblique;
+    text-align: left;
+}
